@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1664012063 source:c:\users\hanaf\downloads\simple_db\main.c
+	<stdio.h>
+	<stdlib.h>
+	"students.h"
+	"modules.h"
+
+1664009724 c:\users\hanaf\downloads\simple_db\students.h
+	<stdio.h>
+	<stdlib.h>
+	"STD_Types.h"
+
+1664004763 c:\users\hanaf\downloads\simple_db\std_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1664010300 c:\users\hanaf\downloads\simple_db\modules.h
+	"STD_Types.h"
+	"students.h"
+
+1664012243 source:c:\users\hanaf\downloads\simple_db\modules.c
+	<stdio.h>
+	<stdlib.h>
+	"modules.h"
+	"students.h"
+
